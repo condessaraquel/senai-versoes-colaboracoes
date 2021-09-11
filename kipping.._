@@ -1,0 +1,23 @@
+[33mtag v1.0[m
+Tagger: condessaraquel <condessa.raquel@gmail.com>
+Date:   Tue Aug 31 22:04:27 2021 -0300
+
+minha primeira tag
+
+[33mcommit 83e9aa0054cbae636021d369ffacec671829c70a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtarefa/minha-primeira-branch[m[33m)[m
+Author: condessaraquel <condessa.raquel@gmail.com>
+Date:   Tue Aug 31 21:15:35 2021 -0300
+
+    gitignore
+
+[1mdiff --git a/.gitignore.TXT b/.gitignore.TXT[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/arquivo-nao-publicado.TXT b/arquivo-nao-publicado.TXT[m
+[1mnew file mode 100644[m
+[1mindex 0000000..374a89e[m
+[1m--- /dev/null[m
+[1m+++ b/arquivo-nao-publicado.TXT[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32marquivo-nao-publicado[m
+\ No newline at end of file[m

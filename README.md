@@ -16,4 +16,3 @@
 <p>git merge tarefa/minha-primeira-branch
 
 
- lembrei do comando: git status
