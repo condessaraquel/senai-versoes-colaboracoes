@@ -17,3 +17,4 @@
 
 
  lembrei do comando: git status
+ lembrei do **comando** : _git status_
