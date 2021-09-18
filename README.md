@@ -16,6 +16,6 @@
 <p>git merge tarefa/minha-primeira-branch
 
 
- lembrei do comando: git status
- lembrei do comando git status
- teste
+<p> lembrei do comando: git status
+ 
+<p> teste
