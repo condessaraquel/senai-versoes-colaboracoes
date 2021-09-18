@@ -16,5 +16,11 @@
 <p>git merge tarefa/minha-primeira-branch
 
 
+<<<<<<< HEAD
 <p>lembrei do comando: git status
 <p>readme de exemplo
+=======
+<p> lembrei do comando: git status
+ 
+<p> teste
+>>>>>>> ab32ab7bf5df532ed093ca3f07be0bbc1daa93f3
