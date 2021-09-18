@@ -14,10 +14,6 @@
 <p>git checkout -b tarefa/minha-primeira-branch
 <p>git checkout master
 <p>git merge tarefa/minha-primeira-branch
-
-
-
 <p>lembrei do comando: git status
 <p>readme de exemplo
- 
 <p> teste
